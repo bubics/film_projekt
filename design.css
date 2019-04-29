@@ -1,0 +1,23 @@
+body{
+	background-color: #898686;
+}
+.carousel-item{
+	height:600px !important;
+}
+.d-block{
+		height:600px !important;
+}	
+p{
+	color: #00CCCC;
+}
+h5{
+	color: #00CCCC;
+}
+h1{
+	color: #00CCCC;
+	text-align: center;	
+}
+h2{
+	color: #00CCCC;
+	text-align: center;	
+}	
